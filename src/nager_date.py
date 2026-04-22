@@ -11,7 +11,7 @@ class NagerDate:
 	def _get(self, endpoint: str) -> Response:
 		return self.session.get(f"{self.api}{endpoint}")
 
-	def get_country_info(self, county_code: str) -> dict:
+	def get_country_info(self, country_code: str) -> dict:
 		return self._get(f"/CountryInfo/{country_code}").json()
 	
 	def get_available_countries(self) -> dict:
