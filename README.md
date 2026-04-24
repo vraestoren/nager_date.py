@@ -1,6 +1,6 @@
 # <div align="center"> <img src="https://date.nager.at/images/logo.webp" width="200" style="vertical-align:middle;" /> nager_date.py </div>
 
-> Web-API for [Nager.Date](https://date.nager.at) — a public holiday API covering 100+ countries with support for long weekends, upcoming holidays, and worldwide data.
+> Web-API for [Nager.Date](https://date.nager.at) a public holiday API covering 100+ countries with support for long weekends, upcoming holidays, and worldwide data.
 </div>
 
 ## Quick Start
